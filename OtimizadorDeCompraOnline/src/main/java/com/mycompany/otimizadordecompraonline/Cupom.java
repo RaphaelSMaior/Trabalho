@@ -13,4 +13,12 @@ public class Cupom {
     String tipo;
     String categoria;
     float desconto;
+
+    public Cupom(String tipo, String categoria, float desconto) {
+        this.tipo = tipo;
+        this.categoria = categoria;
+        this.desconto = desconto;
+    }
+    
+    
 }

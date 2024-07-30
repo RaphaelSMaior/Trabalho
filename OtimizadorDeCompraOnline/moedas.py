@@ -23,3 +23,5 @@ with open('listamoedas.txt', 'w') as file:
         file.write(date + '\n')
 
 print("Lista de datas aleatórias gerada e salva em random_dates.txt.")
+
+
