@@ -1,0 +1,18 @@
+Tênis Esportivo; 199.90; Loja 1; Moda
+Smartphone; 1299.00; Loja 2; Tecnologia
+Cadeira Gamer; 499.99; Loja 3; Moda
+Micro-ondas; 249.90; Loja 1; Eletroportáteis
+Ferro de Passar; 159.00; Loja 2; Eletroportáteis
+Livro de Receitas; 49.90; Loja 4; Casa
+Ração para Cães; 89.90; Loja 3; Pets
+Cesta de Natal; 159.00; Loja 5; Alimentos
+Cadeira de Escritório; 349.90; Loja 1; Casa
+Relógio Inteligente; 699.00; Loja 6; Tecnologia
+Tênis Casual; 149.90; Loja 2; Moda
+Aspirador de Pó; 399.90; Loja 7; Eletroportáteis
+Monitor 24"; 379.00; Loja 3; Tecnologia
+Batedeira; 299.90; Loja 8; Eletroportáteis
+Tênis de Corrida; 219.90; Loja 1; Moda
+Caixa de Som; 149.90; Loja 2; Tecnologia
+Cesta de Bebê; 229.00; Loja 9; Bebê
+Garrafa Térmica; 59.90; Loja 4; Casa
