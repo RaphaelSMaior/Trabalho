@@ -1,13 +1,13 @@
-package com.mycompany.otimizadordecompraonline;
+package com.mycompany.compraonline;
 
-import com.mycompany.otimizadordecompraonline.cupom.Cupom;
-import com.mycompany.otimizadordecompraonline.cupom.ListaCupons;
+import com.mycompany.compraonline.cupom.Cupom;
+import com.mycompany.compraonline.cupom.ListaCupons;
 import javax.swing.*;
 import java.awt.*;
 import java.util.HashMap;
 import java.util.Map;
-import com.mycompany.otimizadordecompraonline.loja.Loja;
-import com.mycompany.otimizadordecompraonline.loja.Item;
+import com.mycompany.compraonline.loja.Loja;
+import com.mycompany.compraonline.loja.Item;
 
 public class Display extends JFrame {
 
@@ -118,7 +118,7 @@ public class Display extends JFrame {
     // Método que exibe os itens e cupons selecionados
     private void confirmarSelecao() {
         StringBuilder itensSelecionados = obterItensSelecionados();
-        StringBuilder cuponsSelecionados = obterCuponsSelecionados();
+        StringBuilder cuponsSelecionados = selecionaCupom();
 
         JOptionPane.showMessageDialog(this, itensSelecionados.toString() + cuponsSelecionados.toString(),
                 "Seleção", JOptionPane.INFORMATION_MESSAGE);
@@ -136,7 +136,7 @@ public class Display extends JFrame {
     }
 
     // Obtém o cupom selecionado (apenas um cupom pode ser selecionado)
-    private StringBuilder obterCuponsSelecionados() {
+    private StringBuilder selecionaCupom() {
         StringBuilder cuponsSelecionados = new StringBuilder("Cupom Selecionado:\n");
         for (Map.Entry<Cupom, JRadioButton> entry : selecaoCupons.entrySet()) {
             if (entry.getValue().isSelected()) {

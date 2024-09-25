@@ -6,7 +6,7 @@
  *
  * @author Raphael Sotto-Maior
  */
-package com.mycompany.otimizadordecompraonline.cupom;
+package com.mycompany.compraonline.cupom;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

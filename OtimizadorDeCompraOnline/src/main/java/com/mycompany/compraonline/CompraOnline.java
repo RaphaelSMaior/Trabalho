@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.otimizadordecompraonline;
+package com.mycompany.compraonline;
 
-import com.mycompany.otimizadordecompraonline.cupom.ListaCupons;
+import com.mycompany.compraonline.cupom.ListaCupons;
 import java.io.IOException;
 
 
@@ -12,7 +12,7 @@ import java.io.IOException;
  *
  * @author Raphael Sotto-Maior
  */
-public class OtimizadorDeCompraOnline {
+public class CompraOnline {
     
 
     public static void main(String[] args) throws IOException {

@@ -2,16 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.otimizadordecompraonline;
+package com.mycompany.compraonline;
 
 /**
  *
  * @author Raphael Sotto-Maior
  */
 
-import com.mycompany.otimizadordecompraonline.loja.Item;
-import com.mycompany.otimizadordecompraonline.loja.ListaLojas;
-import com.mycompany.otimizadordecompraonline.loja.Loja;
+import com.mycompany.compraonline.loja.Item;
+import com.mycompany.compraonline.loja.ListaLojas;
+import com.mycompany.compraonline.loja.Loja;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
