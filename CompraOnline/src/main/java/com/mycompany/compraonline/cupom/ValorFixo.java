@@ -2,16 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+/**
+ *
+ * @author Raphael Sotto-Maior
+ */
 package com.mycompany.compraonline.cupom;
 
 import com.mycompany.compraonline.loja.Item;
 import java.util.List;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Raphael Sotto-Maior
- */
 public class ValorFixo extends CalculaCupom {
 
     @Override

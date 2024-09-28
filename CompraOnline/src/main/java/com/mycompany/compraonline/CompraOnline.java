@@ -2,16 +2,16 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
+/**
+ *
+ * @author Raphael Sotto-Maior
+ */
 package com.mycompany.compraonline;
 
 import com.mycompany.compraonline.cupom.ListaCupons;
 import java.io.IOException;
 
 
-/**
- *
- * @author Raphael Sotto-Maior
- */
 public class CompraOnline {
     
 

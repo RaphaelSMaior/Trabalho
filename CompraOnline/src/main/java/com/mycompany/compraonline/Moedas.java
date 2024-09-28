@@ -2,6 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+/**
+ *
+ * @author Raphael Sotto-Maior
+ */
 package com.mycompany.compraonline;
 
 import java.io.*;
@@ -9,10 +13,6 @@ import java.time.*;
 import java.time.format.DateTimeFormatter;
 import javax.swing.JCheckBox;
 
-/**
- *
- * @author Raphael Sotto-Maior
- */
 public class Moedas {
 
     private int moedas;

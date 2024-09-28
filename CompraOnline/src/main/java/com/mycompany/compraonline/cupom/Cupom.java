@@ -5,14 +5,14 @@ package com.mycompany.compraonline.cupom;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-
-import javax.swing.ButtonGroup;
-import javax.swing.JRadioButton;
-
 /**
  *
  * @author Raphael Sotto-Maior
  */
+
+import javax.swing.ButtonGroup;
+import javax.swing.JRadioButton;
+
 public abstract class Cupom {
 
     protected double valor;
