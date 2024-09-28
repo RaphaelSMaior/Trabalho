@@ -1,0 +1,14 @@
+com\mycompany\compraonline\loja\Item.class
+com\mycompany\compraonline\cupom\ValorFixo.class
+com\mycompany\compraonline\Carrinho.class
+com\mycompany\compraonline\cupom\Cupom.class
+com\mycompany\compraonline\cupom\Porcentagem.class
+com\mycompany\compraonline\loja\ListaLojas.class
+com\mycompany\compraonline\Display.class
+com\mycompany\compraonline\cupom\ListaCupons.class
+com\mycompany\compraonline\Moedas.class
+com\mycompany\compraonline\cupom\CalculaCupom.class
+com\mycompany\compraonline\cupom\Cashback.class
+com\mycompany\compraonline\loja\Loja.class
+com\mycompany\compraonline\CompraOnline.class
+com\mycompany\compraonline\cupom\Desconto.class
