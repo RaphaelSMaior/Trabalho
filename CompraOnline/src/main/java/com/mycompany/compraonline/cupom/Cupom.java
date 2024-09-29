@@ -7,7 +7,7 @@ package com.mycompany.compraonline.cupom;
 
 /**
  *
- * @author Raphael Sotto-Maior
+ * @author Raphael Sotto-Maior 201365385AI
  */
 
 import javax.swing.ButtonGroup;

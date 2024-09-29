@@ -4,7 +4,7 @@
 
 /**
  *
- * @author Raphael Sotto-Maior
+ * @author Raphael Sotto-Maior 201365385AI
  */
 package com.mycompany.compraonline;
 
@@ -17,15 +17,12 @@ public class CompraOnline {
 
     public static void main(String[] args) throws IOException {
         
-        Carrinho carrinho = new Carrinho("../carrinho.txt");
-        ListaCupons lista = new ListaCupons("../listacupons.txt");
-
-        // Caminho para o arquivo com a lista de itens
-        System.out.println(carrinho.toString());        
-        System.out.println(lista.toString());
+        Carrinho carrinho = new Carrinho("carrinho.txt");
+        ListaCupons lista = new ListaCupons("listacupons.txt");
 
 
-        Moedas moedas = new Moedas("../listamoedas.txt");
+
+        Moedas moedas = new Moedas("listamoedas.txt");
         Display display = new Display(moedas,carrinho,lista);
     }
 }
